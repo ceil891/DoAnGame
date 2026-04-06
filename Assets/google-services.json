@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897441574409",
+    "project_id": "epic-runner-2",
+    "storage_bucket": "epic-runner-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897441574409:android:a3078943227747166e92d8",
+        "android_client_info": {
+          "package_name": "com.wadetech.PixelGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlLgejtwUstSlSHk6bXBoKSyXI93KwjRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

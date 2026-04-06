@@ -110,5 +110,9 @@ public class MenuManager : MonoBehaviour
         // Time.timeScale = 1f;
         SceneManager.LoadScene("MainMenu");
     }
+    public void GoToRankScene()
+{
+    UnityEngine.SceneManagement.SceneManager.LoadScene("Rank");
+}
 }
 
